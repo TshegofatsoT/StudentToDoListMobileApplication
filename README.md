@@ -70,6 +70,7 @@ npm install
    - Make sure your MongoDB server is running.
 5. **Run the server**
    ```sh
+   node sever.js
 npm start
 ```
 6. **Open the app**
@@ -99,4 +100,5 @@ npm start
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 

@@ -1,0 +1,5 @@
+.ui-margin-top { margin-top: 8px; }
+.task-meta { font-size: 12px; color: #555; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #eee; margin-right: 6px; }
+.badge.warn { background: #fee; }
+.strike { text-decoration: line-through; color: #888; }

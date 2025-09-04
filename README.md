@@ -53,7 +53,7 @@ student-todo/
 ### Steps
 1. **Clone the repository**
    ```sh
-git clone <your-repo-url>
+git clone <[https://github.com/TshegofatsoT/StudentToDoListMobileApplication.git>
 cd student-todo
 ```
 2. **Install dependencies**
@@ -99,3 +99,4 @@ npm start
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+

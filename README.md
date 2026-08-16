@@ -53,7 +53,7 @@ student-todo/
 ### Steps
 1. **Clone the repository**
    ```sh
-git clone <[https://github.com/TshegofatsoT/StudentToDoListMobileApplication.git>
+git clone <[https://github.com/YourName/ProjectName.git>
 cd student-todo
 ```
 2. **Install dependencies**
@@ -63,7 +63,7 @@ npm install
 3. **Configure environment variables**
    - Create a `.env` file in the root directory:
      ```env
-     MONGODB_URI=mongodb://localhost:27017/student-todo
+     MONGODB_URI=mongodb://localhost:27011/student-todo
      PORT=3000
      ```
 4. **Start MongoDB**
